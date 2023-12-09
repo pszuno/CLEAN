@@ -13,9 +13,9 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="LOCALES",A+ CDMX
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="LOCALES",Canal Catorce
-https://s5.mexside.net:1936/puebla/puebla/playlist.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg" group-title="LOCALES",TV Migrante
-https://s5.mexside.net:1936/betza/betza/playlist.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8
 #EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png" group-title="LOCALES",TV UNAM
 https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png" group-title="LOCALES",Canal 22
@@ -72,8 +72,6 @@ https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logotipo_oficial_del_Canal_10_Chiapas_perteneciente_al_Sistema_Chiapaneco_de_Radio%2C_Televisi%C3%B3n_y_Cinematograf%C3%ADa.png" group-title="LOCALES REGIONALES",Diez Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMRTV 16.1" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="LOCALES REGIONALES",SMRTV 16.1
-https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Mas-Veracruz-en-vivo-Online.png" group-title="LOCALES REGIONALES",TV Mas 26.1
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/LOGO-TV.png" group-title="LOCALES REGIONALES",RTQ
@@ -136,140 +134,406 @@ https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA", Tarima
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TARIMAHD)/index.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 1 MX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/35
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2 MX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/36
-#EXTINF:-1 group-title="CANALES VARIADOS", Fox Deportes
-http://167.114.156.136:25461/INFINITV/ZX89NM22/38
-#EXTINF:-1 group-title="CANALES VARIADOS", Fox Sports 1 MX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/40
-#EXTINF:-1 group-title="CANALES VARIADOS", UFC TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/47
-#EXTINF:-1 group-title="CANALES VARIADOS", Toros TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/46
-#EXTINF:-1 group-title="CANALES VARIADOS", Fox Sports MX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/42
-#EXTINF:-1 group-title="CANALES VARIADOS", Sony
-http://167.114.156.136:25461/INFINITV/ZX89NM22/53
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT
-http://167.114.156.136:25461/INFINITV/ZX89NM22/57
-#EXTINF:-1 group-title="CANALES VARIADOS", Nick Jr
-http://167.114.156.136:25461/INFINITV/ZX89NM22/64
-#EXTINF:-1 group-title="CANALES VARIADOS", Disney XD
-http://167.114.156.136:25461/INFINITV/ZX89NM22/63
-#EXTINF:-1 group-title="CANALES VARIADOS", Warner Channel
-http://167.114.156.136:25461/INFINITV/ZX89NM22/59
-#EXTINF:-1 group-title="CANALES VARIADOS", FX
-http://167.114.156.136:25461/INFINITV/ZX89NM22/70
-#EXTINF:-1 group-title="CANALES VARIADOS", Animal Planet
-http://167.114.156.136:25461/INFINITV/ZX89NM22/75
-#EXTINF:-1 group-title="CANALES VARIADOS", Azteca Uno
-http://167.114.156.136:25461/INFINITV/ZX89NM22/82
-#EXTINF:-1 group-title="CANALES VARIADOS", SYFY
-http://167.114.156.136:25461/INFINITV/ZX89NM22/80
-#EXTINF:-1 group-title="CANALES VARIADOS", Milenio TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/88
-#EXTINF:-1 group-title="CANALES VARIADOS", Multimedios MTY
-http://167.114.156.136:25461/INFINITV/ZX89NM22/89
-#EXTINF:-1 group-title="CANALES VARIADOS", ES: Antena 3
-http://167.114.156.136:25461/INFINITV/ZX89NM22/96
-#EXTINF:-1 group-title="CANALES VARIADOS", Telehit
-http://167.114.156.136:25461/INFINITV/ZX89NM22/95
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV Hits
-http://167.114.156.136:25461/INFINITV/ZX89NM22/94
-#EXTINF:-1 group-title="CANALES VARIADOS", MTV Live
-http://167.114.156.136:25461/INFINITV/ZX89NM22/108
-#EXTINF:-1 group-title="CANALES VARIADOS", Once TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/111
-#EXTINF:-1 group-title="CANALES VARIADOS", A+
-http://167.114.156.136:25461/INFINITV/ZX89NM22/113
-#EXTINF:-1 group-title="CANALES VARIADOS", AZ Corazon
-http://167.114.156.136:25461/INFINITV/ZX89NM22/117
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery TLC
-http://167.114.156.136:25461/INFINITV/ZX89NM22/124
-#EXTINF:-1 group-title="CANALES VARIADOS", Adrenalina Sport
-http://167.114.156.136:25461/INFINITV/ZX89NM22/140
-#EXTINF:-1 group-title="CANALES VARIADOS", ES: Movistar Drama
-http://167.114.156.136:25461/INFINITV/ZX89NM22/146
-#EXTINF:-1 group-title="CANALES VARIADOS", Baby First
-http://167.114.156.136:25461/INFINITV/ZX89NM22/150
-#EXTINF:-1 group-title="CANALES VARIADOS", Telemundo
-http://167.114.156.136:25461/INFINITV/ZX89NM22/155
-#EXTINF:-1 group-title="CANALES VARIADOS", CO: Caracol
-http://167.114.156.136:25461/INFINITV/ZX89NM22/157
-#EXTINF:-1 group-title="CANALES VARIADOS", ABC (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/159
-#EXTINF:-1 group-title="CANALES VARIADOS", CBS Sports Network (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/161
-#EXTINF:-1 group-title="CANALES VARIADOS", NBC NY (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/164
-#EXTINF:-1 group-title="CANALES VARIADOS", NBC Universo (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/165
-#EXTINF:-1 group-title="CANALES VARIADOS", BBC America (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/166
-#EXTINF:-1 group-title="CANALES VARIADOS", FOX (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/168
-#EXTINF:-1 group-title="CANALES VARIADOS", Tennis Channel (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/171
-#EXTINF:-1 group-title="CANALES VARIADOS", TNT (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/172
-#EXTINF:-1 group-title="CANALES VARIADOS", Univision (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/173
-#EXTINF:-1 group-title="CANALES VARIADOS", Galavision (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/174
-#EXTINF:-1 group-title="CANALES VARIADOS", Bein Sports Esp
-http://167.114.156.136:25461/INFINITV/ZX89NM22/176
-#EXTINF:-1 group-title="CANALES VARIADOS", PELEA CANELO OP2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/177
-#EXTINF:-1 group-title="CANALES VARIADOS", A and E
-http://167.114.156.136:25461/INFINITV/ZX89NM22/178
-#EXTINF:-1 group-title="CANALES VARIADOS", Golden
-http://167.114.156.136:25461/INFINITV/ZX89NM22/181
-#EXTINF:-1 group-title="CANALES VARIADOS", Garage TV
-http://167.114.156.136:25461/INFINITV/ZX89NM22/184
-#EXTINF:-1 group-title="CANALES VARIADOS", ESPN AR
-http://167.114.156.136:25461/INFINITV/ZX89NM22/187
-#EXTINF:-1 group-title="CANALES VARIADOS", MLB NETWORK (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/188
-#EXTINF:-1 group-title="CANALES VARIADOS", Showtime (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/189
-#EXTINF:-1 group-title="CANALES VARIADOS", Starz (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/190
-#EXTINF:-1 group-title="CANALES VARIADOS", USA Network (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/191
-#EXTINF:-1 group-title="CANALES VARIADOS", Bravo (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/192
-#EXTINF:-1 group-title="CANALES VARIADOS", Lifetime (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/193
-#EXTINF:-1 group-title="CANALES VARIADOS", Blue Hustler
-http://167.114.156.136:25461/INFINITV/ZX89NM22/199
-#EXTINF:-1 group-title="CANALES VARIADOS", Telecinco
-http://167.114.156.136:25461/INFINITV/ZX89NM22/203
-#EXTINF:-1 group-title="CANALES VARIADOS", WWE network
-http://167.114.156.136:25461/INFINITV/ZX89NM22/209
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Kids
-http://167.114.156.136:25461/INFINITV/ZX89NM22/210
-#EXTINF:-1 group-title="CANALES VARIADOS", DAZN 4
-http://167.114.156.136:25461/INFINITV/ZX89NM22/211
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Science
-http://167.114.156.136:25461/INFINITV/ZX89NM22/216
-#EXTINF:-1 group-title="CANALES VARIADOS", El Gourmet
-http://167.114.156.136:25461/INFINITV/ZX89NM22/219
-#EXTINF:-1 group-title="CANALES VARIADOS", Investigation Discovery
-http://167.114.156.136:25461/INFINITV/ZX89NM22/220
-#EXTINF:-1 group-title="CANALES VARIADOS", Fox Sport 1 (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/221
-#EXTINF:-1 group-title="CANALES VARIADOS", Fox Sport 2 (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/222
-#EXTINF:-1 group-title="CANALES VARIADOS", HBO 2 (USA)
-http://167.114.156.136:25461/INFINITV/ZX89NM22/223
-#EXTINF:-1 group-title="CANALES VARIADOS", CO: Caracol Op2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/226
-#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Turbo OP2
-http://167.114.156.136:25461/INFINITV/ZX89NM22/229
-#EXTINF:-1 group-title="CANALES VARIADOS", Dicovery Turbo
-http://167.114.156.136:25461/INFINITV/ZX89NM22/230
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", A&E
+https://vivo.lamtv.tv:8081/a/0307/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", A&E
+https://vivo.lamtv.tv:8081/a/0022/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", A+
+https://vivo.lamtv.tv:8081/a/0306/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", A+
+https://vivo.lamtv.tv:8081/a/0306/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", A3 Series
+https://vivo.lamtv.tv:8081/a/0028/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ADN 40
+https://vivo.lamtv.tv:8081/a/0023/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Adrenalina Sports Network
+https://vivo.lamtv.tv:8081/a/0025/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Afizzionados
+https://vivo.lamtv.tv:8081/a/0026/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", AMC
+https://vivo.lamtv.tv:8081/a/0309/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", AMC
+https://vivo.lamtv.tv:8081/a/0027/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Animal Planet
+https://vivo.lamtv.tv:8081/a/0311/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Animal Planet
+https://vivo.lamtv.tv:8081/a/0131/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Antena 3
+https://vivo.lamtv.tv:8081/a/0001/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - ESPN 2
+https://vivo.lamtv.tv:8081/a/0447/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - ESPN 3
+https://vivo.lamtv.tv:8081/a/0448/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - ESPN
+https://vivo.lamtv.tv:8081/a/0446/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - FOX Sports 2
+https://vivo.lamtv.tv:8081/a/0450/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - FOX Sports 3
+https://vivo.lamtv.tv:8081/a/0451/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - FOX Sports Premium
+https://vivo.lamtv.tv:8081/a/0452/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - FOX Sports
+https://vivo.lamtv.tv:8081/a/0449/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - TNT Sports
+https://vivo.lamtv.tv:8081/a/0453/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Argentina - TYC Sports
+https://vivo.lamtv.tv:8081/a/0140/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", AXN
+https://vivo.lamtv.tv:8081/a/0005/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", AyM Sports
+https://vivo.lamtv.tv:8081/a/0029/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Az Cinema
+https://vivo.lamtv.tv:8081/a/0002/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Az Clic
+https://vivo.lamtv.tv:8081/a/0469/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Az Corazon
+https://vivo.lamtv.tv:8081/a/0030/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Az Mundo
+https://vivo.lamtv.tv:8081/a/0003/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Azteca 7
+https://vivo.lamtv.tv:8081/a/0132/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Azteca 7
+https://vivo.lamtv.tv:8081/a/0132/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Azteca Uno -2 Horas
+https://vivo.lamtv.tv:8081/a/0135/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Azteca UNO
+https://vivo.lamtv.tv:8081/a/0134/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Azteca UNO
+https://vivo.lamtv.tv:8081/a/0134/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Baby TV
+https://vivo.lamtv.tv:8081/a/0031/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Bandamax
+https://vivo.lamtv.tv:8081/a/0032/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", BeinSports \u00f1
+https://vivo.lamtv.tv:8081/a/0314/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", BeinSports USA
+https://vivo.lamtv.tv:8081/a/0315/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", BitMe
+https://vivo.lamtv.tv:8081/a/0033/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Boomerang
+https://vivo.lamtv.tv:8081/a/0322/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Boomerang
+https://vivo.lamtv.tv:8081/a/0034/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", BOX Nation
+https://vivo.lamtv.tv:8081/a/0189/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Canal 11
+https://vivo.lamtv.tv:8081/a/0035/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Canal 11
+https://vivo.lamtv.tv:8081/a/0035/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Canal 22
+https://vivo.lamtv.tv:8081/a/0503/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Canal 5
+https://vivo.lamtv.tv:8081/a/0150/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Canal 5
+https://vivo.lamtv.tv:8081/a/0150/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Canal 9 (Gala TV)
+https://vivo.lamtv.tv:8081/a/0065/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Canal 9 (Gala TV)
+https://vivo.lamtv.tv:8081/a/0065/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Canal del Congreso
+https://vivo.lamtv.tv:8081/a/0488/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Caracol
+https://vivo.lamtv.tv:8081/a/0036/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Cartoon Network
+https://vivo.lamtv.tv:8081/a/0037/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Cinecanal
+https://vivo.lamtv.tv:8081/a/0147/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Cinelatino
+https://vivo.lamtv.tv:8081/a/0007/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Cinemax
+https://vivo.lamtv.tv:8081/a/0326/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Cinemax
+https://vivo.lamtv.tv:8081/a/0157/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Claro Sports
+https://vivo.lamtv.tv:8081/a/0038/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", CNN en Espanol
+https://vivo.lamtv.tv:8081/a/0039/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", CNN USA
+https://vivo.lamtv.tv:8081/a/0008/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Colombia - Win Sports +
+https://vivo.lamtv.tv:8081/a/0121/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Colombia - Win Sports
+https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Comedy Central
+https://vivo.lamtv.tv:8081/a/0329/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Comedy Central
+https://vivo.lamtv.tv:8081/a/0040/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", De Pelicula Clasico
+https://vivo.lamtv.tv:8081/a/0021/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", De Pelicula Plus
+https://vivo.lamtv.tv:8081/a/0041/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", De Pelicula
+https://vivo.lamtv.tv:8081/a/0009/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", DHE
+https://vivo.lamtv.tv:8081/a/0471/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery Channel
+https://vivo.lamtv.tv:8081/a/0334/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery Channel
+https://vivo.lamtv.tv:8081/a/0158/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery Family
+https://vivo.lamtv.tv:8081/a/0335/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery H&H
+https://vivo.lamtv.tv:8081/a/0159/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery KIDS
+https://vivo.lamtv.tv:8081/a/0042/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery Life
+https://vivo.lamtv.tv:8081/a/0339/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery Science
+https://vivo.lamtv.tv:8081/a/0340/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery Science
+https://vivo.lamtv.tv:8081/a/0043/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery Theater
+https://vivo.lamtv.tv:8081/a/0044/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery TLC
+https://vivo.lamtv.tv:8081/a/0160/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery Turbo
+https://vivo.lamtv.tv:8081/a/0161/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Discovery World
+https://vivo.lamtv.tv:8081/a/0045/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Disney Channel
+https://vivo.lamtv.tv:8081/a/0341/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Disney Channel
+https://vivo.lamtv.tv:8081/a/0046/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Disney Junior
+https://vivo.lamtv.tv:8081/a/0342/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Disney Junior
+https://vivo.lamtv.tv:8081/a/0047/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Disney XD
+https://vivo.lamtv.tv:8081/a/0343/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Distrito Comedia
+https://vivo.lamtv.tv:8081/a/0049/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", DW
+https://vivo.lamtv.tv:8081/a/0501/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", E!
+https://vivo.lamtv.tv:8081/a/0345/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", E!
+https://vivo.lamtv.tv:8081/a/0050/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", El Gourmet
+https://vivo.lamtv.tv:8081/a/0051/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ESPN +
+https://vivo.lamtv.tv:8081/a/0052/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ESPN 1
+https://vivo.lamtv.tv:8081/a/0347/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ESPN 1
+https://vivo.lamtv.tv:8081/a/0053/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ESPN 2
+https://vivo.lamtv.tv:8081/a/0348/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ESPN 2
+https://vivo.lamtv.tv:8081/a/0054/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ESPN 3
+https://vivo.lamtv.tv:8081/a/0055/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ESPN Deportes
+https://vivo.lamtv.tv:8081/a/0163/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", ESPN U
+https://vivo.lamtv.tv:8081/a/0012/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Estrella TV
+https://vivo.lamtv.tv:8081/a/0013/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Film & Arts
+https://vivo.lamtv.tv:8081/a/0478/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Food Network
+https://vivo.lamtv.tv:8081/a/0351/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Food Network
+https://vivo.lamtv.tv:8081/a/0056/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Foro TV
+https://vivo.lamtv.tv:8081/a/0057/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", FOX (Star Channel)
+https://vivo.lamtv.tv:8081/a/0177/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", FOX Deportes
+https://vivo.lamtv.tv:8081/a/0138/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", FOX Sports 1
+https://vivo.lamtv.tv:8081/a/0175/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", FOX Sports 2
+https://vivo.lamtv.tv:8081/a/0133/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", FOX Sports 3
+https://vivo.lamtv.tv:8081/a/0062/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", FX
+https://vivo.lamtv.tv:8081/a/0378/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", FX
+https://vivo.lamtv.tv:8081/a/0063/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", FXM
+https://vivo.lamtv.tv:8081/a/0379/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Galavision
+https://vivo.lamtv.tv:8081/a/0210/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Garage TV
+https://vivo.lamtv.tv:8081/a/0014/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Glitz
+https://vivo.lamtv.tv:8081/a/0015/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Golden EDGE
+https://vivo.lamtv.tv:8081/a/0067/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Golden Plus
+https://vivo.lamtv.tv:8081/a/0068/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Golden Premier
+https://vivo.lamtv.tv:8081/a/0069/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Golden
+https://vivo.lamtv.tv:8081/a/0066/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Golf Channel Latinoamerica
+https://vivo.lamtv.tv:8081/a/0016/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", GolTV
+https://vivo.lamtv.tv:8081/a/0385/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", GolTV USA
+https://vivo.lamtv.tv:8081/a/0386/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", H2
+https://vivo.lamtv.tv:8081/a/0070/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO 2
+https://vivo.lamtv.tv:8081/a/0392/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO 2
+https://vivo.lamtv.tv:8081/a/0072/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Comedy
+https://vivo.lamtv.tv:8081/a/0466/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Family
+https://vivo.lamtv.tv:8081/a/0393/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Family
+https://vivo.lamtv.tv:8081/a/0073/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Mundi
+https://vivo.lamtv.tv:8081/a/0074/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Plus
+https://vivo.lamtv.tv:8081/a/0075/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO POP
+https://vivo.lamtv.tv:8081/a/0076/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO
+https://vivo.lamtv.tv:8081/a/0391/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO
+https://vivo.lamtv.tv:8081/a/0071/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Signature
+https://vivo.lamtv.tv:8081/a/0394/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Signature
+https://vivo.lamtv.tv:8081/a/0077/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Xtreme
+https://vivo.lamtv.tv:8081/a/0078/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HBO Zone
+https://vivo.lamtv.tv:8081/a/0395/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", HGTV
+https://vivo.lamtv.tv:8081/a/0079/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", History Channel
+https://vivo.lamtv.tv:8081/a/0397/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", History
+https://vivo.lamtv.tv:8081/a/0178/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Hola TV
+https://vivo.lamtv.tv:8081/a/0080/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Imagen Television
+https://vivo.lamtv.tv:8081/a/0141/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Imagen Television
+https://vivo.lamtv.tv:8081/a/0141/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Ingenio TV
+https://vivo.lamtv.tv:8081/a/0017/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Investigation Discovery
+https://vivo.lamtv.tv:8081/a/0162/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", JusticiaTV
+https://vivo.lamtv.tv:8081/a/0500/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Las Estrellas
+https://vivo.lamtv.tv:8081/a/0179/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Lifetime
+https://vivo.lamtv.tv:8081/a/0401/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Lifetime
+https://vivo.lamtv.tv:8081/a/0082/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Mas chic
+https://vivo.lamtv.tv:8081/a/0083/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Mas Chic
+https://vivo.lamtv.tv:8081/a/0083/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Mexiquense TV
+https://vivo.lamtv.tv:8081/a/0480/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Milenio
+https://vivo.lamtv.tv:8081/a/0018/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", MLB Network
+https://vivo.lamtv.tv:8081/a/0403/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Movistar Deportes 2
+https://vivo.lamtv.tv:8081/a/0204/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Movistar Deportes
+https://vivo.lamtv.tv:8081/a/0203/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Movistar F1
+https://vivo.lamtv.tv:8081/a/0205/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Movistar F1 TV
+https://vivo.lamtv.tv:8081/a/0205/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Movistar Golf
+https://vivo.lamtv.tv:8081/a/0206/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Movistar Golf
+https://vivo.lamtv.tv:8081/a/0206/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Movistar Liga de Campeones
+https://vivo.lamtv.tv:8081/a/0207/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", MTV Classics
+https://vivo.lamtv.tv:8081/a/0406/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", MTV Hits
+https://vivo.lamtv.tv:8081/a/0084/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", MTV Live
+https://vivo.lamtv.tv:8081/a/0407/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", MTV Live
+https://vivo.lamtv.tv:8081/a/0019/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", MTV
+https://vivo.lamtv.tv:8081/a/0408/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", MTV
+https://vivo.lamtv.tv:8081/a/0085/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Multimedios MTY
+https://vivo.lamtv.tv:8081/a/0024/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", NatGeo
+https://vivo.lamtv.tv:8081/a/0410/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", NatGeo
+https://vivo.lamtv.tv:8081/a/0088/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", NatGeo Wild
+https://vivo.lamtv.tv:8081/a/0409/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", NBA TV
+https://vivo.lamtv.tv:8081/a/0411/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", NFL Network
+https://vivo.lamtv.tv:8081/a/0426/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", NFL Red Zone
+https://vivo.lamtv.tv:8081/a/0427/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Nick 2 (TeenNick)
+https://vivo.lamtv.tv:8081/a/0089/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Nick Jr
+https://vivo.lamtv.tv:8081/a/0429/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Nick JR
+https://vivo.lamtv.tv:8081/a/0090/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Nickelodeon
+https://vivo.lamtv.tv:8081/a/0430/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Nickelodeon
+https://vivo.lamtv.tv:8081/a/0267/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Nicktoons
+https://vivo.lamtv.tv:8081/a/0431/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Nicktoons
+https://vivo.lamtv.tv:8081/a/0091/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Paramount Channel
+https://vivo.lamtv.tv:8081/a/0092/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Pasiones
+https://vivo.lamtv.tv:8081/a/0112/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", RCN Nuestra Tele Internacional
+https://vivo.lamtv.tv:8081/a/0115/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", RCN
+https://vivo.lamtv.tv:8081/a/0113/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", SEC ESPN Network
+https://vivo.lamtv.tv:8081/a/0011/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Sky Sports Action
+https://vivo.lamtv.tv:8081/a/0255/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Sky Sports Football
+https://vivo.lamtv.tv:8081/a/0257/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Sky Sports Golf
+https://vivo.lamtv.tv:8081/a/0258/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Sky Sports Mix
+https://vivo.lamtv.tv:8081/a/0260/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Sony
+https://vivo.lamtv.tv:8081/a/0093/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Space
+https://vivo.lamtv.tv:8081/a/0094/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Studio Universal
+https://vivo.lamtv.tv:8081/a/0096/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Sudamerica - DirecTV Sports +
+https://vivo.lamtv.tv:8081/a/0274/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Sudamerica - DirecTV Sports 2
+https://vivo.lamtv.tv:8081/a/0273/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Sudamerica - DirecTV Sports
+https://vivo.lamtv.tv:8081/a/0336/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", SyFy
+https://vivo.lamtv.tv:8081/a/0275/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", SyFy
+https://vivo.lamtv.tv:8081/a/0097/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", TBS
+https://vivo.lamtv.tv:8081/a/0277/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", TBS
+https://vivo.lamtv.tv:8081/a/0098/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", TCM
+https://vivo.lamtv.tv:8081/a/0099/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Teleformula
+https://vivo.lamtv.tv:8081/a/0149/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS" user-agent="EEEEE", Telehit Plus
+http://23.237.174.122:25461/live/KHxBQdH92Z/wujCNBaYws/100.m3u8|user-agent=Xskdnjoksdna34nm
 #EXTINF:-1 group-title="CANALES VARIADOS", 11 - Repretel
 http://138.59.177.34:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS", 13-Sinart
